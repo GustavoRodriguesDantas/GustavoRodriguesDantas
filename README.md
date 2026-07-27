@@ -23,7 +23,7 @@ Estudante de Engenharia de Produção focado na interseção entre análise de d
 
 ---
 
-## 🏭 Projeto em Destaque: [EcoFlow Industrial](https://github.com/gustavoroddriguesdantas/ecoflow-industrial)
+## 🏭 Projeto em Destaque: [EcoFlow Industrial](https://github.com/gustavorodriguesdantas/ecoflow-industrial) 
 
 **Simulador de Linhas de Produção e Indicadores ESG**  
 [![Ver Repositório](https://img.shields.io/badge/Repositório-EcoFlow_Industrial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavorodriguesdantas/ecoflow-industrial)
