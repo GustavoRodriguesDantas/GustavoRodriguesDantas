@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Gustavo Dantas
 **Engenharia de Produção | Data Analytics | Otimização de Processos**
 
-Estudante de Engenharia de Produção focado na interseção entre análise de dados, eficiência operacional e simulação de processos[cite: 2]. Aplico modelagem matemática, Teoria dos Grafos e Inteligência Artificial para estruturar dados, mapear gargalos e automatizar a tomada de decisão em fluxos industriais e logísticos.
+Estudante de Engenharia de Produção focado na interseção entre análise de dados, eficiência operacional e simulação de processos. Aplico modelagem matemática, Teoria dos Grafos e Inteligência Artificial para estruturar dados, mapear gargalos e automatizar a tomada de decisão em fluxos industriais e logísticos.
 
 ---
 
@@ -23,19 +23,20 @@ Estudante de Engenharia de Produção focado na interseção entre análise de d
 
 ---
 
-## 🏭 Projeto em Destaque: EcoFlow Industrial
+## 🏭 Projeto em Destaque: [EcoFlow Industrial](https://github.com/gustavoroddriguesdantas/ecoflow-industrial)
 
-**Simulador de Linhas de Produção e Indicadores ESG**
+**Simulador de Linhas de Produção e Indicadores ESG**  
+[![Ver Repositório](https://img.shields.io/badge/Repositório-EcoFlow_Industrial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavorodriguesdantas/ecoflow-industrial)
 
-Desenvolvimento de um software simulador de fluxos industriais orientado a dados e métricas operacionais[cite: 2].
+Desenvolvimento de um software simulador de fluxos industriais orientado a dados e métricas operacionais.
 
-* **Motor Analítico:** Implementação de algoritmo **BFS (Busca em Largura)** em **Teoria dos Grafos** para determinar a sequência de execução de nós e validar dependências lógicas de produção[cite: 2].
+* **Motor Analítico:** Implementação do algoritmo **BFS (Busca em Largura)** em **Teoria dos Grafos** para determinar a sequência de execução de nós e validar dependências lógicas de produção.
 * **Gestão de KPIs em Tempo Real:** Mapeamento dinâmico de indicadores globais:
-  * **OEE** (*Overall Equipment Effectiveness*)[cite: 2]
-  * **Pegada de Carbono** (Emissões de CO₂)[cite: 2]
-  * **Custo Operacional Total**[cite: 2]
-  * **Taxa de Reuso/Reciclagem de Materiais**[cite: 2]
-* **Interface Vetorial Interativa:** Construção de engine gráfica em Pygame para representação visual de conexões por Curvas de Bézier e estruturas condicionais (IF/Else)[cite: 2].
+  * **OEE** (*Overall Equipment Effectiveness*)
+  * **Pegada de Carbono** (Emissões de CO₂)
+  * **Custo Operacional Total**
+  * **Taxa de Reuso/Reciclagem de Materiais**
+* **Interface Vetorial Interativa:** Construção de engine gráfica em Pygame para representação visual de conexões por Curvas de Bézier e estruturas condicionais (IF/Else).
 
 ---
 
