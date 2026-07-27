@@ -1,51 +1,53 @@
 # 👨🏻‍💻 Gustavo Dantas
+**Engenharia de Produção | Data Analytics | Otimização de Processos**
 
-**Engenharia de Produção | Análise de Dados | Processos & Inteligência Artificial**
-
-Estudante de Engenharia de Produção na UniLaSalle com foco em otimização de processos, logística, análise de dados e desenvolvimento de soluções tecnológicas. Atuo na interseção entre gestão industrial e tecnologia, aplicando algoritmos, modelagem matemática e Inteligência Artificial para a resolução de problemas operacionais complexos[cite: 2].
-
----
-
-## 🚀 Principais Competências
-
-* **Análise de Dados & IA:** Python, SQL, Power BI, IA Generativa (Prompt Engineering) e Engenharia de Dados[cite: 2].
-* **Engenharia de Processos:** Mapeamento de fluxos, Teoria dos Grafos, KPIs industriais (OEE, Custos, ESG) e simulação de linhas de produção[cite: 2].
-* **Gestão Operacional:** Controle de estoque, sistemas ERP/WMS, metodologia FEFO e gestão de perdas.
+Estudante de Engenharia de Produção focado na interseção entre análise de dados, eficiência operacional e simulação de processos[cite: 2]. Aplico modelagem matemática, Teoria dos Grafos e Inteligência Artificial para estruturar dados, mapear gargalos e automatizar a tomada de decisão em fluxos industriais e logísticos.
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Stack Técnica & Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/powerbi-docs/main/code-samples/PowerBI.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 💻 Projeto em Destaque
+## 🎯 Competências Principais
 
-### 🏭 [EcoFlow Industrial](https://github.com/SEU-USUARIO/ecoflow-industrial)
-Simulador interativo de linhas de produção sustentáveis desenvolvido em **Python**[cite: 2].
-
-* **Algoritmos e Estrutura:** Utiliza **Teoria dos Grafos** e o algoritmo **BFS (Busca em Largura)** para mapeamento sequencial e processamento de dependências de nós operacionais[cite: 2].
-* **Gestão de KPIs:** Computa e exibe em tempo real indicadores de **OEE** (*Overall Equipment Effectiveness*), emissões de CO₂, custos operacionais e taxa de reuso de materiais[cite: 2].
-* **Interface Vetorial:** Renderização gráfica customizada com Pygame, com conexões dinâmicas por Curvas de Bézier e blocos condicionais[cite: 2].
+* **Analytics & Dados:** Processamento e estruturação de dados em Python, consultas em SQL, construção de dashboards no Power BI e aplicação de IA Generativa via Prompt Engineering.
+* **Engenharia de Processos:** Modelagem de processos industriais, Teoria dos Grafos (Algoritmo BFS), monitoramento de KPIs (OEE, Custos, Emissões de CO₂) e análise de trade-offs.
+* **Gestão Operacional:** Controle de inventário, mitigação de perdas por validade (metodologia FEFO) e operação em sistemas ERP/WMS.
 
 ---
 
-## 📚 Formação & Especializações
+## 🏭 Projeto em Destaque: EcoFlow Industrial
 
-* 🎓 **Bacharelado em Engenharia de Produção** – UniLaSalle (Cursando)
-* ⚡ **Bootcamp Bradesco - GenAI, Dados & Cyber** – Digital Innovation One (DIO) (Em andamento)
-  * *Foco em IA Generativa, manipulação de dados com SQL e Python, automação e práticas de cibersegurança.*
+**Simulador de Linhas de Produção e Indicadores ESG**
+
+Desenvolvimento de um software simulador de fluxos industriais orientado a dados e métricas operacionais[cite: 2].
+
+* **Motor Analítico:** Implementação de algoritmo **BFS (Busca em Largura)** em **Teoria dos Grafos** para determinar a sequência de execução de nós e validar dependências lógicas de produção[cite: 2].
+* **Gestão de KPIs em Tempo Real:** Mapeamento dinâmico de indicadores globais:
+  * **OEE** (*Overall Equipment Effectiveness*)[cite: 2]
+  * **Pegada de Carbono** (Emissões de CO₂)[cite: 2]
+  * **Custo Operacional Total**[cite: 2]
+  * **Taxa de Reuso/Reciclagem de Materiais**[cite: 2]
+* **Interface Vetorial Interativa:** Construção de engine gráfica em Pygame para representação visual de conexões por Curvas de Bézier e estruturas condicionais (IF/Else)[cite: 2].
 
 ---
 
-## 📬 Conecte-se Comigo
+## 🎓 Formação & Desenvolvimento Continuado
+
+* **Bacharelado em Engenharia de Produção** — UniLaSalle (Em andamento)
+* **Bootcamp Bradesco: GenAI, Dados & Cyber** — Digital Innovation One (DIO)
+  * *Especialização em Análise de Dados (SQL/Python), Automação de Processos, Engenharia de Prompts e Práticas de Segurança Digital.*
+
+---
+
+## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dantas-eng/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavorodriguesdantaseng@gmail.com)
