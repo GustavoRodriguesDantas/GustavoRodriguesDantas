@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Gustavo Dantas
 
-**`Desenvolvedora FullStack`**
+**`Análise de Dados`**
 
 Me chamo Gustavo Rodrigues Dantas, tenho 23 anos. Atualmente, estou cursando Engenharia de Produção na UniLaSalle.
 
