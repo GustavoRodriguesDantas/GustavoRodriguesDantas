@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Dantas
+# 👨🏻‍💻 Gustavo Dantas
 
 **`Análise de Dados`**
 
